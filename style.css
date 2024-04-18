@@ -1,0 +1,19 @@
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #ece2cb;
+    --botao-azul: #5d3b85;
+    --cor-de-fundo: #5c0a2c;
+}
+body {
+    background-color: var(--cor-de-fundo);
+   
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
+* {
+    margin: 0;
+    padding: 0;
+}
